@@ -1,3 +1,2 @@
-# angular-snfzvs-gdexgq
+Angular-Demo
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-snfzvs-gdexgq)
